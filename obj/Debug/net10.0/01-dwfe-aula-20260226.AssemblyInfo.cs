@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-dwfe-aula-20260226")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fd67f9454d046b0c0e215a550c403ea8aa08e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8fc64f77dcd4201e10c4b657f9626d9d85f95d")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-dwfe-aula-20260226")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-dwfe-aula-20260226")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
