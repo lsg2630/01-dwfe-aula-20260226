@@ -27,6 +27,8 @@ nav {
 
 main {
     border: .1rem solid purple;
+    display: flex;
+    flex: 1;
 }
 
 footer {
