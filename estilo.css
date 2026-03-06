@@ -5,13 +5,13 @@
 }
 
 body {
-    max-height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
 header {
-    border: .1rem solid red;
+    border: 0.1rem solid red;
     height: 2rem;
 }
 
